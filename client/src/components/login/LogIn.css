@@ -1,0 +1,15 @@
+@media all and (min-width: 480px) {
+     .loginForm {
+       padding: 60px 0;
+     }
+   
+     .loginForm {
+       margin: 0 auto;
+       max-width: 320px;
+     }
+     .signUpForm{
+      padding: 20px;
+      margin: 0 auto;
+      max-width: 320px;
+     }
+   }
